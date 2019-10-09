@@ -1,0 +1,12 @@
+.img-blackgrey{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.color-bar {
+    background-color: #1abc9c !important;
+}
+
+.text-color {
+    color: #1abc9c;
+}
